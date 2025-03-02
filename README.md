@@ -1,4 +1,4 @@
-🔑 Random Password Generator
+#🔑 Random Password Generator
 
 A beginner-friendly Random Password Generator built with Python that allows users to generate secure passwords with customizable options.
 
