@@ -1,64 +1,62 @@
-#Random Password Generator
+# Random Password Generator
 
-A beginner-friendly Random Password Generator built with Python that allows users to generate secure passwords with customizable options.
+A beginner-friendly **Random Password Generator** built with **Python** that allows users to generate secure passwords with customizable options.
 
-Project Description
+## Project Description
 
-This project generates random passwords based on user preferences like length, uppercase letters, numbers, and special characters. It also includes a Password Strength Checker that rates the generated password.
+This project generates random passwords based on user preferences like **length**, **uppercase letters**, **numbers**, and **special characters**. It also includes a **Password Strength Checker** that rates the generated password.
 
-Features
+## Features
 
-Customizable Password Length
+- Customizable **Password Length**
+- Include **Uppercase Letters**
+- Include **Numbers**
+- Include **Special Characters**
+- Password Strength Checker (**Weak**, **Medium**, **Strong**)
 
-Include Uppercase Letters
+## How to Run the Project
 
-Include Numbers
+### 1. Clone the Repository
 
-Include Special Characters
-
-Password Strength Checker (Weak, Medium, Strong)
-
-Copy to Clipboard (if running through GUI)
-
-How to Run the Project
-
-1. Clone the Repository
-
+```bash
 git clone https://github.com/yourusername/password-generator.git
 cd password-generator
+```
 
-2. Install Dependencies
+### 2. Install Dependencies
 
-No extra dependencies are needed! This project uses built-in random and string libraries.
+No extra dependencies are needed! This project uses built-in **random** and **string** libraries.
 
-3. Run the App
+### 3. Run the App
 
+```bash
 python main.py
+```
 
-How It Works
+## How It Works
 
-Enter the password length.
+1. Enter the **password length**.
+2. Choose what characters to include (**Uppercase**, **Numbers**, **Special Characters**).
+3. Password will be generated along with its **strength**.
 
-Choose what characters to include (Uppercase, Numbers, Special Characters).
+## Tech Stack
 
-Password will be generated along with its strength.
+- **Python**
 
-Tech Stack
+## Future Updates
 
-Python
+- Save Passwords to File
+- Password History
+- Passphrase Generator
 
-Future Updates
+## Contributing
 
-Save Passwords to File
+Pull requests are welcome! If you'd like to contribute, feel free to **fork** the repo and submit changes.
 
-Password History
+## License
 
-Passphrase Generator
+This project is licensed under the **MIT License**.
 
-Contributing
+---
+### Made with love by [Your Name]
 
-Pull requests are welcome! If you'd like to contribute, feel free to fork the repo and submit changes.
-
-License
-
-This project is licensed under the MIT License.
