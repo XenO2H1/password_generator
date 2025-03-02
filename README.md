@@ -19,7 +19,7 @@ This project generates random passwords based on user preferences like **length*
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/password-generator.git
+git clone https://github.com/XenO2H1/password-generator.git
 cd password-generator
 ```
 
@@ -58,5 +58,5 @@ Pull requests are welcome! If you'd like to contribute, feel free to **fork** th
 This project is licensed under the **MIT License**.
 
 ---
-### Made with love by [Your Name]
+### Made with love by [XenO2H1]
 
