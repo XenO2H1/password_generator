@@ -19,8 +19,7 @@ This project generates random passwords based on user preferences like **length*
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/XenO2H1/password-generator.git
-cd password-generator
+https://github.com/XenO2H1/password_generator/blob/main/README.md?plain=1
 ```
 
 ### 2. Install Dependencies
